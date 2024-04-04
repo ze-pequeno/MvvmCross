@@ -8,14 +8,14 @@
     <PackageVersion Include="Microsoft.Windows.SDK.BuildTools" Version="10.0.22621.2428" />
     <PackageVersion Include="Microsoft.WindowsAppSDK" Version="1.4.231115000" />
     <PackageVersion Include="Moq" Version="4.18.4" />
-    <PackageVersion Include="Roslynator.Analyzers" Version="4.11.0" />
+    <PackageVersion Include="Roslynator.Analyzers" Version="4.12.0" />
     <PackageVersion Include="Serilog" Version="3.1.1" />
     <PackageVersion Include="Serilog.Extensions.Logging" Version="8.0.0" />
     <PackageVersion Include="Serilog.Sinks.Async" Version="1.5.0" />
     <PackageVersion Include="Serilog.Sinks.Trace" Version="3.0.0" />
     <PackageVersion Include="Serilog.Sinks.Debug" Version="2.0.0" />
     <PackageVersion Include="Serilog.Sinks.Xamarin" Version="1.0.0" />
-    <PackageVersion Include="SonarAnalyzer.CSharp" Version="9.20.0.85982" />
+    <PackageVersion Include="SonarAnalyzer.CSharp" Version="9.23.1.88495" />
     <PackageVersion Include="SourceLink.Create.CommandLine" Version="2.8.3" />
     <PackageVersion Include="Xamarin.Android.Glide" Version="4.15.1.2" />
     <PackageVersion Include="Xamarin.AndroidX.AppCompat" Version="1.6.1.4" />
